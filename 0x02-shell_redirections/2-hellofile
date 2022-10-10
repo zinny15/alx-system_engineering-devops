@@ -1,2 +1,2 @@
 #!/bin/bassh
-echo /etc/passwd
+cat /etc/passwd
