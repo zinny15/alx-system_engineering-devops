@@ -1,1 +1,1 @@
-shell permission project
+switches the current user
